@@ -49,6 +49,3 @@ This plugin adds a custom Elementor widget that allows you to create beautiful t
 - Compatible with Elementor 2.0+ (supports both legacy and modern APIs)
 - Proper sanitization and escaping for security
 - Optimized CSS with responsive breakpoints
-# testkuubiik
-# testkuubiik
-# testkuubiik
