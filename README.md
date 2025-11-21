@@ -50,3 +50,4 @@ This plugin adds a custom Elementor widget that allows you to create beautiful t
 - Proper sanitization and escaping for security
 - Optimized CSS with responsive breakpoints
 # testkuubiik
+# testkuubiik
